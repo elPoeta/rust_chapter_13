@@ -1,2 +1,5 @@
-# rust_chapter_13
-Rust Chapter  XIII
+# Rust Chapter XIII
+
+### Reference
+
+https://doc.rust-lang.org/stable/book/ch13-00-functional-features.html
